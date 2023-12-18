@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson1.task1;
+package Seminars.Seminar1.task1;
 
 
     /*

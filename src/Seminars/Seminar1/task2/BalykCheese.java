@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson1.task2;
+package Seminars.Seminar1.task2;
 
 /**
  * Сыр Балыковый (Балык)
