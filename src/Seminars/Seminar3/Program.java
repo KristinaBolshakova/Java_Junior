@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson3;
+package Seminars.Seminar3;
 
 public class Program {
 
