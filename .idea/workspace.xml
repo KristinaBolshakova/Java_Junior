@@ -5,49 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="236058da-8b51-4375-b042-e0c09bef23d6" name="Changes" comment="HW3">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/HW3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/HW3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/QueryBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar2/task3/models/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/task1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/task1/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/task2/ToDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/task2/ToDoListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/Seminar3/task2/ToDoV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/java/ru/geekbrains/chat/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/java/ru/geekbrains/chat/client/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/java/ru/geekbrains/chat/server/ClientManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/java/ru/geekbrains/chat/server/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/java/ru/geekbrains/chat/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task1/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task1/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task1/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task1/LibraryV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task1/LibraryV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/BalykCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/BalykCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Cheburek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Cheburek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/ChocolateBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/ChocolateBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Crisps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Crisps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/DumplingsBerries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/DumplingsBerries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/DumplingsMeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/DumplingsMeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/HealthyFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/HealthyFood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Notebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/OliveOil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/OliveOil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Pen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Pen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/SemiFinishedFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/SemiFinishedFood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Snack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Snack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/Thing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/UMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/Seminar1/task2/UMarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +37,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2YNvKl1oVFUbSN3mp0sTZySDNgG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -79,15 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Учеба/GeekBrains/22 Java Junior/Java_Junior&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/Учеба/GeekBrains/22 Java Junior/Java_Junior",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="HomeWork.HW1" />
@@ -136,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701584327651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW3">
+      <created>1702887405681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702887405681</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW3">
+      <created>1702887551965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702887551965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
